@@ -15,8 +15,7 @@ This project aims to enhance the **Sales Pipeline Management** process using **S
 - **Lightning Web Components (LWC)**
 - **Salesforce Admin Tools**: Flows, Process Builder, Validation Rules
 - **Version Control**: Git & GitHub
-
-## 📂 Project Structure
+  */## 📂 Project Structure
 ```
 📦 salesforce-crm-enhancement
  ┣ 📂 lwc                # Lightning Web Components
@@ -24,7 +23,7 @@ This project aims to enhance the **Sales Pipeline Management** process using **S
  ┣ 📂 dashboards         # Reports & dashboards
  ┣ 📜 README.md          # Project documentation
  ┗ 📜 config.json        # Salesforce metadata configurations
-```
+```/*
 
 ## 🏗 Installation & Setup
 1. Clone this repository:  
